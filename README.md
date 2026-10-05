@@ -1,16 +1,18 @@
-## Hi there 👋
+# Aaron Khan
 
-<!--
-**akhan727/akhan727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Platform and Systems Engineer in Denver, CO. I build and automate infrastructure.
 
-Here are some ideas to get you started:
+**Currently building:**
+[aws-platform-terraform](https://github.com/akhan727/aws-platform-terraform): a
+production-style AWS environment defined in Terraform, with reusable modules,
+OIDC-based CI/CD in GitHub Actions, security scanning, and documented design decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Background:** Five years at Charter Communications' technology and engineering
+center: VMware vSphere, AWS dev/test environments, GitLab and Jenkins CI/CD, IPAM,
+and lab operations.
+
+**Tools:** Terraform · AWS · Linux (RHEL) · VMware vSphere · GitLab · Jenkins ·
+Docker · Kubernetes · Python · Bash
+
+[LinkedIn](https://www.linkedin.com/in/akhan727) · B.S. Software Engineering,
+Cum Laude, Arizona State University
